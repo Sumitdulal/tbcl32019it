@@ -1,0 +1,242 @@
+/*
+  # Author Name: Sumit Dulal;
+  # Author Section: A;
+  # Author Roll No: 2853;
+*/
+*{
+ margin:0;
+ padding:0;
+     }
+    
+.clr{
+    clear:both;
+    }
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.top-left {
+  position:absolute;
+  top: 8px;
+  left: 16px;
+}
+li {
+    display: inline;
+    margin-right: 300px;
+}
+body{
+
+    font-family:Tahoma;
+    
+    }
+    
+    .container{
+    
+    width:1140px;
+    
+    margin:auto
+    
+    }
+    
+    .navbar{
+    
+    background-color:rgba(243,
+    234, 
+    234, 0.308);
+    
+    text-align:center;
+    
+    height:30px;
+    
+    }
+    
+    .navbar 
+    ul{
+    
+    list-style:none;
+    
+    }
+    
+    .navbar 
+    ul li{
+    
+    display:inline-block;
+    
+    padding-top:5px;
+    
+    }
+    
+    .navbar 
+    ul li 
+    a{
+    
+    text-decoration: 
+    none;
+    
+    color:black;
+    
+    padding-right:120px;
+    
+    }
+    
+    h1{
+    
+    margin:20px
+    0px;
+    
+    font-size:30px;
+    
+    }
+    
+    p{
+    
+    margin-bottom:10px;
+    
+    }
+    
+    .col25{
+    
+    width:25%;
+    
+    float:left;
+    
+    box-sizing:border-box;
+    
+    padding-left:15px;
+    
+    padding-bottom:20px;
+    
+    }
+    
+    .col25 
+    h6{
+    
+    font-size:20px;
+    
+    margin:20px
+    0px;
+    
+    
+    
+    }
+    
+    #one{
+    
+    background-color:rgb(216,
+    211, 
+    211);
+    
+    }
+    
+    #two{
+    
+    background-color:rgb(150,
+    146, 
+    146);
+    
+    }
+    
+    #three{
+    
+    background-color:rgb(66,
+    66, 
+    66);
+    
+    color:white;
+    
+    }
+    
+    #four{
+    
+    background-color:rgb(3,
+    3, 
+    3);
+    
+    color:white;
+    
+    }
+    
+    .col30{
+    
+    width:30%;
+    
+    float:left;
+    
+    box-sizing:border-box;
+    
+    text-align:center;
+    
+    margin-right:10px;
+    
+    }
+    
+    #black 
+    h3{
+    
+    color:white;
+    
+    background-color:black;
+    
+    padding:30px
+    0px;
+    
+    }
+    
+    #white 
+    h3{
+    
+    color:white;
+    
+    background-color:grey;
+    
+    padding:30px
+    0px;
+    
+    }
+    
+    .col30 
+    ul li{
+    
+    list-style: 
+    none;
+    
+    padding:10px
+    0px;
+    
+    border-bottom:1px
+    solid 
+    rgb(207, 
+    205, 205);
+    
+    border:1px
+    solid 
+    rgb(201, 
+    200, 200);
+    
+    }
+    
+    .button 
+    input{
+    
+    background-color:rgb(5,
+    182, 
+    5);
+    
+    padding:10px;
+    
+    border:0;
+    
+    color:white;
+    
+    }
+    
+    .button{
+    
+    background-color: 
+    rgb(241, 
+    222, 222);
+    
+    }
+    
+   
